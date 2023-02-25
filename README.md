@@ -7,5 +7,4 @@ The code must also be inside the "htdocs" folder. Click/copy and paste this link
 
 # Account for Admin:
 Username: admin@php.com
-
 Password: admin
